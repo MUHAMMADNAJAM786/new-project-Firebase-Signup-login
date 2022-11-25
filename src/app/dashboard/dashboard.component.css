@@ -1,0 +1,186 @@
+
+
+.home img {
+  width: 100%;
+  height: 600px;
+  object-position: center;
+  object-fit: cover;
+}
+.homecontent{
+
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%,-50%);
+}
+.homecontent h1{
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+
+}
+.homecontent a{
+  margin-top: 10px;
+}
+
+@media screen and (max-width:600px)
+{
+  .home img
+  {
+    height: 700px;
+  }
+
+
+.homecontent h1
+
+{
+ font-size: 40px;
+}
+}
+
+
+.new{
+
+  border-bottom: 1px solid #999;
+  border-left: 1px solid #999;
+
+  padding: 50px;
+  margin: 20px;
+}
+
+.p-5 {
+  padding: 1rem!important;
+}
+
+
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+
+  margin-bottom: 5rem;
+
+
+}
+
+
+
+
+
+
+element.style {
+  font-size: 250px;
+  color: green;
+  cursor: pointer;
+}
+
+.fa fa-whatsapp{
+  cursor: pointer;
+}
+
+.whatsapp_float{
+  cursor: pointer;
+
+  font-size: 100px;
+
+}
+
+
+.messenger_floats{
+  cursor: pointer;
+
+  font-size: 100px;
+}
+
+a{
+
+  color: black;
+  font-size: 2rem;
+}
+
+p {
+  margin-top: 0;
+  color: black;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+
+h1, h1 {
+  font-size: 2.5rem;
+  margin-left: 1rem;
+}
+
+
+
+
+
+body{
+  background-color: #eee;
+}
+
+.fill-button{
+position:absolute;
+left:50%;
+top:50%;
+transform: translate(-50%,-50%);
+}
+
+.btn {
+border: none;
+font-family: inherit;
+font-size: inherit;
+color: inherit;
+background: none;
+cursor: pointer;
+padding: 25px 80px;
+display: inline-block;
+margin: 15px 30px;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 700;
+outline: none;
+position: relative;
+-webkit-transition: all 1s;
+-moz-transition: all 1s;
+transition: all 1s;
+margin-bottom: 5rem;
+padding-bottom: none;
+}
+.btn {
+border: 3px solid rgb(82, 202, 12);
+color: rgb(24, 21, 21);
+margin-bottom: 5rem;
+padding-bottom: none;
+}
+.btn:hover {
+color: #fff;
+}
+.btn::after {
+content: '';
+position: absolute;
+z-index: -1;
+-webkit-transition: all 1s;
+-moz-transition: all 1s;
+transition: all 1s;
+}
+.btn:after {
+width: 0%;
+height: 100%;
+top: 0;
+left: 0;
+background: rgb(10, 123, 216);
+}
+.btn:hover:after, .btn:active:after {
+width: 100%;
+}
+
+
+.form-group {
+  margin-bottom: 1rem;
+  margin-right: 2rem;
+}
+
+
+.btn[_ngcontent-dvi-c65]:not(:disabled):not(.disabled) {
+  cursor: pointer;
+
+  margin-bottom: 5rem;
+}

@@ -1,0 +1,148 @@
+h1, .h1-style {
+  font-size: 30px;
+  line-height: 120%;
+  font-weight: bold;
+  color: #2F1C6A;
+  margin-bottom: 1.5rem;
+}
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+
+
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+h2, h2-style {
+    font-size: 34px;
+    line-height: 120%;
+}
+
+h2, h2-style {
+  font-size: 34px;
+  line-height: 120%;
+}
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+h3, .h3 {
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: bold;
+  color: #2F1C6A;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+
+h2, h2-style {
+  font-size: 28px;
+  line-height: 120%;
+  font-weight: bold;
+  color: #2F1C6A;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+
+h2, h2-style {
+  font-size: 34px;
+  line-height: 120%;
+}
+
+
+#post p:not(.post-info):not(.category-name):not(.toc_title) {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+  padding-bottom: 20px;
+}
+
+
+#post .wp-block-table table td {
+  padding-bottom: 10px;
+  border: none;
+}
+
+#post .wp-block-table table tr:not(:last-child) td:not(:first-child) {
+  border-bottom: 1px solid #F4F4F4;
+}
+
+
+b, strong {
+  font-weight: bold;
+}
+
+
+
+#post li {
+  list-style-type: inherit;
+  margin-bottom: 8px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #36344D;
+  letter-spacing: 0.3px;
+}
+
+
+#post .wp-block-table table {
+  padding: 20px;
+  border-spacing: 20px 10px;
+  border-collapse: separate;
+  font-size: 16px;
+  display: table-footer-group;
+  width: 100%;
+}
+
+
+#post .wp-block-table table {
+  font-size: 17px;
+}

@@ -1,0 +1,55 @@
+.wrap_post .post_top .image_layout .image_wrap {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+}
+.wrap_post .post_bottom .content_small .singlepost h1 {
+  font-size: 28px;
+  line-height: 35px;
+}
+
+
+.wrap_post .post_bottom .content_small .singlepost__content p, .wrap_post .post_bottom .content_small .singlepost__content p strong {
+  word-break: break-word;
+}
+element.style {
+  text-align: center;
+}
+.wrap_post .post_bottom .content_small .singlepost__content p, .wrap_post .post_bottom .content_small .singlepost__content p strong {
+  word-break: break-word;
+}
+
+.wrap_post .post_bottom .content_small .singlepost__content p, .wrap_post .post_bottom .content_small .singlepost__content p strong {
+  word-break: break-word;
+}
+
+.wrap_post .post_bottom .content_small .singlepost h3 {
+  font-size: 20px;
+  line-height: 27px;
+}
+.wrap_post .post_bottom .content_small .singlepost__content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+element.style {
+  text-align: left;
+}
+
+element.style {
+  text-align: center;
+}
+element.style {
+  text-align: center;
+}
+
+element.style {
+  background-image: url(https://www.motocms.com/blog/wp-content/uploads/2019/03/benefits-of-node-js-main-image.jpg);
+}
